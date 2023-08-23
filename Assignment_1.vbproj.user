@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Admin Center\frmAddBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin Center\frmAddUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin Center\frmDashboard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin Center\frmDeleteBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin Center\frmDeleteUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin Center\frmEditUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin Center\frmManageBooks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin Center\frmManageUsers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Admin Center\frmUpdateBook.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmForgetPassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
